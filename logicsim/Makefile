@@ -4,6 +4,9 @@ CXXFLAGS=-g -Wall -std=c++11
 OBJS=wire.o gate.o circuit.o logicsim.o
 
 all: logicsim
+#	./logicsim exclusive_or.txt > my_test.uml
+#	java -jar plantuml.jar my_test.uml
+	#./logicsim single_not.txt
 
 logicsim: $(OBJS)
 	$(CXX) $(CXXFLAGS) $(DEFS) -o $@ $(OBJS)

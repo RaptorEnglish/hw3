@@ -2,6 +2,8 @@
 #include <fstream>
 #include <functional>
 #include "llrec.h"
+#include "stack.h"
+#include "heap.h"
 using namespace std;
 
 /**
@@ -69,6 +71,21 @@ void dealloc(Node* head)
 
 
 
+class Compare {
+public:
+    bool operator()(int val) {
+        return val < 10;
+    }
+};
+
+
+Node* makeList(std::vector<int> list, int index=0) {
+    if (index < list.size()) {
+        return new Node(list[index], makeList(list, index + 1));
+    }
+    return nullptr;
+}
+
 
 
 int main(int argc, char* argv[])
@@ -86,8 +103,55 @@ int main(int argc, char* argv[])
     print(head);
 
     // Test out your linked list code
+    Node* list = makeList({2,4});
+    Node* small = (Node*) &list; // set to a non-null address
+    Node* large = (Node*) &list; // set to a non-null address
+    llpivot(list, small, large, 3);
+    print(small);
+    print(large);
+    print(list);
+    std::cout << "___" << std::endl;
+
+////    // part 1
+//    Node* smaller = nullptr;
+//    Node* larger = nullptr;
+//    llpivot(head, smaller, larger, 1);
+//    std::cout << "smaller" << std::endl;
+//    print(smaller);
+//    std::cout << "larger" << std::endl;
+//    print(larger);
+
+    Compare comp;
+    Node* res = llfilter(head, comp);
+
+    print(res);
 
 
+    // test stack
+//    Stack<int> stack;
+//    stack.push(3);
+//    stack.push(5);
+//    stack.pop();
+//    int top = stack.top();
+//    std::cout << top << std::endl;;
+
+
+    // test heap
+//    Heap<int> h(3);
+//    h.push(5);
+//    h.push(3);
+//    h.push(2);
+//    h.push(12);
+//    h.push(22);
+//    h.push(33);
+//    h.push(5);
+//    h.pop();
+//    h.push(2);
+//    h.push(1);
+//    h.push(40);
+//    h.pop();
+//    h.pop();
+//    std::cout << h << std::endl;
 
     
     return 0;

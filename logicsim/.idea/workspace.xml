@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="logicsim" targetName="all" />
+      <config projectName="logicsim" targetName="logicsim" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db2e41c2-0965-4100-9b3f-aa1118238718" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../llrec-test2.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heap.h" beforeDir="false" afterPath="$PROJECT_DIR$/../heap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/testing_utils.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/testing_utils.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/testing_utils.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/testing_utils.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/testing_utils.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/testing_utils.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/testing_utils.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/testing_utils.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/testing_utils.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/testing_utils.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/testing_utils.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/testing_utils.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/testing_utils.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/testing_utils.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/testing_utils.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/testing_utils.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/testing_utils.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/CMakeFiles/testing_utils.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/CTestTestfile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/Labels.json" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/Labels.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/Labels.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/Labels.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CMakeFiles/kwsys.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/CTestTestfile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/libkwsys.a" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/kwsys/libkwsys.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3_tests/testing_utils/libtesting_utils.a" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3_tests/testing_utils/libtesting_utils.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../llrec-test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../llrec-test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../llrec.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../llrec.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../llrec.h" beforeDir="false" afterPath="$PROJECT_DIR$/../llrec.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circuit.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/circuit.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circuit.h" beforeDir="false" afterPath="$PROJECT_DIR$/circuit.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/event.h" beforeDir="false" afterPath="$PROJECT_DIR$/event.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/gate.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate.h" beforeDir="false" afterPath="$PROJECT_DIR$/gate.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logicsim.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/logicsim.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack.h" beforeDir="false" afterPath="$PROJECT_DIR$/../stack.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MakefileLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="logicsim" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="logicsim" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="1.1" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2tzlypHHIM5iS1UfDk7Np8LOREH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Makefile Target.all.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/raptorenglish/Desktop/USC/2025-SPR/CSCI-104/csci104/hw3/logicsim",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Makefile Target.all">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="all" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="logicsim" TARGET_NAME="all" CONFIG_NAME="all" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="logicsim" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="logicsim" TARGET_NAME="logicsim" CONFIG_NAME="logicsim" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="all" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="all" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Makefile Target.all" />
+      <item itemvalue="Native Application.all" />
+      <item itemvalue="Native Application.logicsim" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Makefile Target.all" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db2e41c2-0965-4100-9b3f-aa1118238718" name="Changes" comment="" />
+      <created>1741363040660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741363040660</updated>
+      <workItem from="1741363041711" duration="1813000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
