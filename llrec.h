@@ -5,7 +5,7 @@
 #endif
 
 /**
- * Node struct for both problems
+ * Node struct both problems
  */
 struct Node
 {
