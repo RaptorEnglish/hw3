@@ -80,7 +80,6 @@ Node* llfilter(Node* head, Comp pred);
 //*********************************************
 // Provide your implementation below
 //*********************************************
-#include <iostream>
 template <typename Comp>
 Node* llfilter(Node* head, Comp pred)
 {
