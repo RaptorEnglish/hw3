@@ -3,9 +3,6 @@ CXXFLAGS := -g -Wall --std=c++11
 VALGRIND := valgrind --tool=memcheck --leak-check=yes
 
 all: llrec-test
-	rm -f llrec-test.o
-	./llrec-test llrec-test2.in
-
 
 #-----------------------------------------------------
 # ADD target(s) to build your llrec-test executable

@@ -73,22 +73,6 @@ public:
   size_t size() const;
 
 
-  // other helper functions
-
-  // get arr
-  const std::vector<T>& get_arr() const {
-      return arr;
-  }
-
-  // override to print
-  friend std::ostream& operator<<(std::ostream& os, const Heap<T, PComparator>& heap) {
-      for (auto& item : heap.get_arr()) {
-          os << item << " ";
-      }
-      return os;
-  }
-
-
 };
 
 // Add implementation of member functions here
@@ -109,7 +93,7 @@ Heap<T, PComparator>::~Heap() {
 }
 
 
-// We will start top() for you to handle the case of 
+// We will start top() you to handle the case of
 // calling top on an empty heap
 template <typename T, typename PComparator>
 T const & Heap<T,PComparator>::top() const
@@ -131,7 +115,7 @@ T const & Heap<T,PComparator>::top() const
 }
 
 
-// We will start pop() for you to handle the case of 
+// We will start pop() you to handle the case of
 // calling top on an empty heap
 template <typename T, typename PComparator>
 void Heap<T,PComparator>::pop()

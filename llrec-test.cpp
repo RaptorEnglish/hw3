@@ -45,14 +45,7 @@ Node* readList(const char* filename)
     return h;
 }
 
-void print(Node* head)
-{
-    while(head) {
-        cout << head->val << " ";
-        head = head->next;
-    }
-    cout << endl;
-}
+
 
 void dealloc(Node* head)
 {
@@ -124,7 +117,7 @@ int main(int argc, char* argv[])
     Compare comp;
     Node* res = llfilter(head, comp);
 
-    print(res);
+//    print(res);
 
 
     // test stack
